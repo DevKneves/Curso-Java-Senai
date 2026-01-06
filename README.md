@@ -18,6 +18,6 @@ Criar um histórico de evolução no aprendizado da linguagem
 🚀 Como Executar os Exercícios
 
 Clone este repositório:
-1. git clone (https://github.com/DevKneves/Curso-Java-Senai/).git  
+1. ```git clone git@github.com:DevKneves/Curso-Java-Senai.git```
 2. Abra o projeto em sua IDE Java
 3. Compile e execute o arquivo main.java
